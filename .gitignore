@@ -2,7 +2,7 @@
 *.csv
 
 # docx files
-.docx
+*.docx
 
 # Log files
 *.log
