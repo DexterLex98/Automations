@@ -1,5 +1,11 @@
 # csv files
 *.csv
 
+# docx files
+.docx
+
 # Log files
 *.log
+
+# DB files
+*.sql, *db
