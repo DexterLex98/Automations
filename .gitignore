@@ -1,11 +1,14 @@
 # csv files
 *.csv
 
-# docx files
-*.docx
+# docx and pdf files
+*.docx. *.pdf
 
 # Log files
 *.log
 
 # DB files
 *.sql, *db
+
+# TMP files
+*.tmp
